@@ -1,0 +1,10 @@
+{
+    "virtual_network_rg":"VNET_MFCv2-Internal-CAC-Production-S5-EngineeringPlatforms",
+    "virtual_network_name":"MFCv2-Internal-CAC-Production-S5-EngineeringPlatforms",
+    "virtual_network_subnet_name":"ConfigurationAutomation",
+    "build_resource_group_name":"CAC-Packer-StandardImageBuilds-NonProduction-01",
+    "resource_group_name":"CAC-Packer-StandardImageBuilds-NonProduction-01",
+    "storage_account":"nonprodvhdstorate",
+    "capture_container_name":"rhel7",
+    "chef_server":"https://chefserver01.platform.manulife.io"
+  }
